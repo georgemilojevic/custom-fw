@@ -1,0 +1,18 @@
+{
+    "name": "dmiloj01/personal_fw",
+    "description": "personal built framework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dmiloj01\\PersonalFw\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Djordje Milojevic",
+            "email": "georgemilojevic@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
